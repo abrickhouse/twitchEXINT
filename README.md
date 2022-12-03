@@ -24,7 +24,7 @@ This project was bootstrapped with Create React App. Made by Amaiya Brickhouse i
 
 ### How
 
-The app is hosted using hostinger and can be accessed at the URL: <a href="http://https://abrickhouse.github.io/twitchEXINT/">http://https://abrickhouse.github.io/twitchEXINT/</a>
+The app is hosted using hostinger and can be accessed at the URL: <a href="https://abrickhouse.github.io/twitchEXINT/">https://abrickhouse.github.io/twitchEXINT/</a>
 
 ### Artist Statement
 
