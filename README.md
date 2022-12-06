@@ -14,7 +14,7 @@ This project was bootstrapped with Create React App. Made by Amaiya Brickhouse i
   - There is an associative array of users and messages that they sent (which I got from a text file of the chat from a live stream which I got through TwitchDownloader)
   - The messages are displayed randomly across the screen and, when you enter a word (ideally one that you read from the messages), it will get rid of messages that also use that word (case insensitive) and the pool of messages that it pulls from shrinks
   - In theory you could keep going until it hits zero and it has nothing left to show you because you’ve seen everything but, in actuality, it’s sort of functionally impossible to get everything before the screen gets so crowded that it’s hard to read anything at all (even though it’s only 300 out of some 175,000 total messages)
-  - If I was a more advanced programmer, would figure out some way to link it to something that gets more data (so it’s not just the same bank of messages each time)
+  - If I was a more advanced programmer, I would figure out some way to link it to something that gets more data (so it’s not just the same bank of messages each time)
 - How I imagine someone would use or experience the intervention
   - You see what people say and try to read what as many people say as possible
   - The idea is that on these live streaming platforms these messages are sort of being put out there with no real way to tell if anyone is actually receiving/hearing it
@@ -24,7 +24,7 @@ This project was bootstrapped with Create React App. Made by Amaiya Brickhouse i
 
 ### How
 
-The app is hosted using hostinger and can be accessed at the URL: <a href="https://abrickhouse.github.io/twitchEXINT/">https://abrickhouse.github.io/twitchEXINT/</a>
+The app is hosted using github pages and can be accessed at the URL: <a href="https://abrickhouse.github.io/twitchEXINT/">https://abrickhouse.github.io/twitchEXINT/</a>
 
 ### Artist Statement
 
